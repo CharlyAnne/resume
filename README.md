@@ -1,3 +1,3 @@
 URL: https://charlianimoisili.netlify.app/
 
-My initial plan was to convert the html code into pdf file, but I'm still not getting it right. I'll fix it later.
+The plan was to convert the HTML and CSS code into a .pdf file, but I'm not getting it right at the moment. I'll fix it sometime soon.
