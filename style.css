@@ -10,7 +10,7 @@
 }
 body {
   margin: 0;
-  padding: 0;
+  padding: 0rem 0;
   font-family: 'Poppins', 'Helvetica Neue', Arial, Helvetica, sans-serif;
   font-size: var(--body-font-size);
   display: flex;
@@ -72,6 +72,9 @@ h2.profession {
   margin-left: 0.4rem;
 }
 a {
+  color: #7455ee;
+}
+a:visited {
   color: #7455ee;
 }
 main {
